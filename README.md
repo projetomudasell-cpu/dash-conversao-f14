@@ -12,7 +12,3 @@ Importe este repositório em [vercel.com/new](https://vercel.com/new). Framework
 ## Atualizar os números
 
 Os dados ficam fixos no `index.html`. Para atualizar, gere o arquivo de novo a partir das planilhas mais recentes e faça o commit aqui.
-
-## Debriefing Pablo — Setembro/26
-
-`debriefing-pablo-set26/index.html`: debriefing do lançamento pago de setembro/26 (investimento, métricas pré e pós-abertura de carrinho, públicos, campanhas, páginas e criativos), com os dados agregados já embutidos (sem nomes, e-mails ou telefones). Na Vercel fica em `/debriefing-pablo-set26`.
